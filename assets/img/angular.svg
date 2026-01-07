@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="angular" transform="translate(-940 -2247)">
+    <rect id="Rectangle_9488" data-name="Rectangle 9488" width="60" height="60" transform="translate(940 2247)" fill="none"/>
+    <g id="angular-icon-1" transform="translate(942 2247)">
+      <path id="Path_17613" data-name="Path 17613" d="M.1,10.642,27.96.7l28.61,9.768L51.938,47.393,27.96,60.7,4.357,47.57Z" transform="translate(-0.1 -0.697)" fill="#e23237"/>
+      <path id="Path_17614" data-name="Path 17614" d="M154.563,10.465,125.908.7v60l24.016-13.282,4.64-36.95Z" transform="translate(-98.093 -0.697)" fill="#b52e31"/>
+      <path id="Path_17615" data-name="Path 17615" d="M65.058,32.274,47.714,70.96l6.479-.11,3.482-8.727H73.234l3.813,8.838,6.193.11ZM65.1,44.668l5.862,12.284H59.945Z" transform="translate(-37.153 -25.27)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
