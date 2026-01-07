@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="flutter" transform="translate(-940 -2130)">
+    <rect id="Rectangle_9483" data-name="Rectangle 9483" width="60" height="60" transform="translate(940 2130)" fill="none"/>
+    <g id="Google-flutter-logo" transform="translate(940.41 2126)">
+      <path id="Path_17697" data-name="Path 17697" d="M35.088,4.02,54,4,22.269,35.175,14,43.259,4.59,34Zm-.176,27.836c.245-.319.7-.162,1.04-.2l18.034,0L37.55,47.8l-9.458-9.24Z" fill="#44d1fd"/>
+      <path id="Path_17699" data-name="Path 17699" d="M65.36,165.066l9.434-9.256,9.464,9.24.039.041-9.5,9.247-9.437-9.272Z" transform="translate(-46.702 -117.252)" fill="#1fbcfd"/>
+      <path id="Path_17700" data-name="Path 17700" d="M106.08,205.827l9.5-9.247L132,212.72c-6.183.014-12.363,0-18.544.009-.352.077-.57-.239-.795-.435Z" transform="translate(-78.003 -148.741)" fill="#08589c"/>
+    </g>
+  </g>
+</svg>

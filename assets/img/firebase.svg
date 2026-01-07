@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="265.5 163 361 482.2" style="enable-background:new 265.5 163 361 482.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFA000;}
+	.st2{opacity:0.12;fill:url(#SVGID_3_);enable-background:new    ;}
+	.st3{fill:#F57C00;}
+	.st4{opacity:0.2;fill:url(#SVGID_4_);enable-background:new    ;}
+	.st5{fill:#FFCA28;}
+	.st6{fill:#FFFFFF;fill-opacity:0.2;}
+	.st7{opacity:0.2;fill:#A52714;enable-background:new    ;}
+	.st8{fill:url(#SVGID_5_);}
+	.st9{display:none;}
+	.st10{display:inline;fill:#00FFFF;fill-opacity:0.2;}
+</style>
+<g id="Layer_1_1_">
+	<g>
+		<g id="XMLID_19_">
+			<g>
+				<g>
+					<defs>
+						<path id="SVGID_1_" d="M566.6,280.7c-1-5.6-6.1-9.1-11.7-8.4c-2,0.3-4.1,1.3-5.6,2.8l-52.8,52.8l-41.4-79
+							c-2.5-5.1-8.6-6.9-13.7-4.3c-1.8,1-3.3,2.5-4.3,4.3l-22.6,43.2L357.6,186c-2.5-4.8-8.9-6.9-13.7-4.1c-2.8,1.5-4.8,4.3-5.3,7.4
+							l-55.1,351.9l147,82.5c9.1,5.1,20.6,5.1,29.7,0l148.3-82.5L566.6,280.7z"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st0">
+						<path class="st1" d="M283.5,541.2l55.1-351.9c0.8-5.6,6.1-9.4,11.7-8.4c3,0.5,5.8,2.5,7.4,5.3l56.9,106.1l22.6-43.2
+							c2.5-5.1,8.6-6.9,13.7-4.3c1.8,1,3.3,2.5,4.3,4.3l153.4,292H283.5z"/>
+						
+							<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="346.8244" y1="882.7512" x2="326.5119" y2="872.1379" gradientTransform="matrix(1 0 0 1 0 -462.0064)">
+							<stop  offset="0" style="stop-color:#A52714"/>
+							<stop  offset="0.4" style="stop-color:#A52714;stop-opacity:0.5"/>
+							<stop  offset="0.8" style="stop-color:#A52714;stop-opacity:0"/>
+						</linearGradient>
+						<path class="st2" d="M471.4,183.2l-269.1-22.9v487.5l81.2-106.6L471.4,183.2z"/>
+						<path class="st3" d="M473.7,404.1l-59.2-112l-131,249.1L473.7,404.1z"/>
+						
+							<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="433.1242" y1="853.2226" x2="424.0344" y2="844.1328" gradientTransform="matrix(1 0 0 1 0 -462.0064)">
+							<stop  offset="0" style="stop-color:#A52714;stop-opacity:0.8"/>
+							<stop  offset="0.5" style="stop-color:#A52714;stop-opacity:0.21"/>
+							<stop  offset="1" style="stop-color:#A52714;stop-opacity:0"/>
+						</linearGradient>
+						<path class="st4" d="M202.3,160.3h487.5v487.5H202.3C202.3,647.8,202.3,160.3,202.3,160.3z"/>
+						<path class="st5" d="M608.5,541.2l-42.1-260.8c-1-5.6-6.1-9.1-11.7-8.4c-2,0.3-4.1,1.3-5.6,2.8L283.5,541.2l147,82.5
+							c9.1,5.1,20.6,5.1,29.7,0L608.5,541.2z"/>
+						<path class="st6" d="M566.6,280.7c-1-5.6-6.1-9.1-11.7-8.4c-2,0.3-4.1,1.3-5.6,2.8l-52.8,52.8l-41.4-79
+							c-2.5-5.1-8.6-6.9-13.7-4.3c-1.8,1-3.3,2.5-4.3,4.3l-22.6,43.2L357.6,186c-2.5-4.8-8.9-6.9-13.7-4.1c-2.8,1.5-4.8,4.3-5.3,7.4
+							l-55.1,351.9h-0.3l0.3,0.3l1.5,0.8l211.5-211.8l52.8-52.8c4.1-4.1,10.4-4.1,14.5,0c1.5,1.5,2.5,3.3,2.8,5.6l41.6,258.2
+							l0.5-0.3L566.6,280.7z M284,540.7l54.6-348.9c0.8-5.6,6.1-9.4,11.7-8.4c3,0.5,5.8,2.5,7.4,5.3l56.9,106.1l22.6-43.2
+							c2.5-5.1,8.6-6.9,13.7-4.3c1.8,1,3.3,2.5,4.3,4.3l40.6,77.2L284,540.7z"/>
+						<path class="st7" d="M460.2,621.2c-9.1,5.1-20.6,5.1-29.7,0l-146.8-82.3l-0.3,2.3l147,82.5c9.1,5.1,20.6,5.1,29.7,0
+							l148.3-82.5l-0.3-2.3L460.2,621.2z"/>
+						
+							<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-429.7549" y1="-632.5372" x2="-302.624" y2="-759.6682" gradientTransform="matrix(2.67 0 0 -2.67 1422.1818 -1429.5646)">
+							<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+							<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+						</linearGradient>
+						<path class="st8" d="M566.6,280.7c-1-5.6-6.1-9.1-11.7-8.4c-2,0.3-4.1,1.3-5.6,2.8l-52.8,52.8l-41.4-79
+							c-2.5-5.1-8.6-6.9-13.7-4.3c-1.8,1-3.3,2.5-4.3,4.3l-22.6,43.2L357.6,186c-2.5-4.8-8.9-6.9-13.7-4.1c-2.8,1.5-4.8,4.3-5.3,7.4
+							l-55.1,351.9l147,82.5c9.1,5.1,20.6,5.1,29.7,0l148.3-82.5L566.6,280.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="guides" class="st9">
+	<rect id="XMLID_13_" x="69.4" y="501" class="st10" width="753.2" height="64"/>
+	<rect id="XMLID_10_" x="69.4" y="229" class="st10" width="753.2" height="64"/>
+	<rect x="758.5" y="229" class="st10" width="64" height="336"/>
+	<rect x="266.3" y="229" class="st10" width="48" height="336"/>
+	<rect x="69.5" y="229" class="st10" width="64" height="336"/>
+</g>
+</svg>
